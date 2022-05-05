@@ -1,0 +1,28 @@
+{
+    "id": "E9951035",
+    "path": "C:/Users/ben.block/OneDrive - Tetra Tech, Inc/GitHub/MA_Natural_Background_Conditions/inst/shiny/MA_NBC/server.R",
+    "project_path": "inst/shiny/MA_NBC/server.R",
+    "type": "r_source",
+    "hash": "1353889984",
+    "contents": "",
+    "dirty": false,
+    "created": 1651762733720.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "230,36",
+        "scrollLine": "216",
+        "docOutlineVisible": "1",
+        "docOutlineSize": "142"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1651781868,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651781868917,
+    "read_only": false,
+    "read_only_alternatives": []
+}
