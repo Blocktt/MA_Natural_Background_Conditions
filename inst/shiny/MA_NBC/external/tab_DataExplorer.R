@@ -1,6 +1,7 @@
 function(){
   tabPanel("Data Explorer"
-           , titlePanel("Data Explorer - Stream Water Quality vs Land Use")
+           , titlePanel("Data Explorer - Stream Water Chemistry vs StreamCat")
+           , h3("The following chemistry data are site average values.")
            , sidebarLayout(
              sidebarPanel(
                helpText("Use the drop down menus to select a water chemistry and StreamCat parameter.")

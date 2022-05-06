@@ -31,7 +31,7 @@ shinyServer(function(input, output, session) {
     ,easyClose = T)
 
   # Show the model on start up
-  # showModal(myModal)
+  showModal(myModal)
 
   # Data explorer tab ####
   ## Define data ####
@@ -57,7 +57,7 @@ shinyServer(function(input, output, session) {
     
     corr_res_final <- round(corr_res[1,2],2)
     
-    return(paste0("<b># Ref Samples: ", myRefCount, "<br>","# Total Samples: "
+    return(paste0("<b># Ref Sites: ", myRefCount, "<br>","# Total Sites: "
                  ,myCount, "<br>", "Spearman rho: ",corr_res_final ,"</b>"))
     
   }) # renderPrint
