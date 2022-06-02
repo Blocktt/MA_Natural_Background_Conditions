@@ -1,0 +1,26 @@
+{
+    "id": "AF81A220",
+    "path": "C:/Users/ben.block/OneDrive - Tetra Tech, Inc/GitHub/MA_Natural_Background_Conditions/inst/shiny/MA_NBC/ui.R",
+    "project_path": "inst/shiny/MA_NBC/ui.R",
+    "type": "r_source",
+    "hash": "3625462541",
+    "contents": "",
+    "dirty": false,
+    "created": 1654189435152.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,65",
+        "scrollLine": "12"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1654189443,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1654189443339,
+    "read_only": false,
+    "read_only_alternatives": []
+}
