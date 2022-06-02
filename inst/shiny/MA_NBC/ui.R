@@ -14,7 +14,9 @@
 # tab_Background <- source("external/tab_Background.R", local = TRUE)$value
 # tab_Instructions <- source("external/tab_Instructions.R", local = TRUE)$value
 # tab_Calculator <- source("external/tab_Calculator.R", local = TRUE)$value
-tab_DataExplorer <- source("external/tab_DataExplorer.R", local = TRUE)$value
+tab_DataExplorer_Streams <- source("external/tab_DataExplorer_Streams.R", local = TRUE)$value
+tab_DataExplorer_Lakes <- source("external/tab_DataExplorer_Lakes.R", local = TRUE)$value
+
 
 # Define UI
 shinyUI(navbarPage(theme = shinytheme("cerulean")
@@ -22,6 +24,7 @@ shinyUI(navbarPage(theme = shinytheme("cerulean")
                    # ,tab_Background()
                    # ,tab_Instructions()
                    # ,tab_Calculator()
-                   ,tab_DataExplorer()
+                   ,tab_DataExplorer_Streams()
+                   ,tab_DataExplorer_Lakes()
           )## navbarPage~END
 )## shinyUI~END

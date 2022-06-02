@@ -1,0 +1,13 @@
+name: MassDEP_NBC
+title: MassDEP_NBC
+username:
+account: tetratech-wtr-wne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6250182
+bundleId: 5878776
+url: https://tetratech-wtr-wne.shinyapps.io/MassDEP_NBC/
+when: 1651860725.97275
+lastSyncTime: 1651860725.97275
+asMultiple: FALSE
+asStatic: FALSE
